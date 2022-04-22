@@ -1,0 +1,40 @@
+
+#navcolor
+{
+    background-color: #e83e8c !important;
+}
+
+.footer1
+{
+    background-color: #e83e8c !important;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #ffff;
+}
+
+header h1  
+{
+	color: #707070 !important;
+	font-weight: 700;
+	font-size: 60px;
+}
+
+
+
+.footerazul
+{
+	background-color: #17a2b8;
+	color: #ffff;
+}
+
+.footer2
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+body
+{
+	font-family: 'Open Sans', sans-serif;	
+}
